@@ -1,0 +1,53 @@
+Description
+
+
+As a user
+
+i want to check availability hall for specific date
+So that 
+i can check for availability of hall in booking hall application
+
+
+
+
+
+Scope:
+
+
+User Should checking hall for specific date
+
+
+
+pre conditions:
+
+
+User should get availability of hall for specific date
+
+
+
+
+Acceptance criteria
+Scenario 1: 
+user got availability of hall successfully for specified date
+
+A user login successfully to booking hall  application
+then 
+user search availability of hall for specific date
+
+then user can book the hall for specified date
+then user will get booking  
+
+successfully
+
+
+
+Scenario 2: 
+user cannot get availability of hall for specified date
+A 
+user login successfully to booking hall application
+
+then user search unavailability of hall for specific date
+
+then user cannot get book availability of hall for specified date
+
+then user will not to get booking a hall unsuccessfully.
